@@ -1,0 +1,17 @@
+{
+  "name": "geodata",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "vite --host",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^3.0.9",
+    "vite-plugin-mkcert": "^1.10.1"
+  },
+  "dependencies": {
+    "laravel": "^0.0.1",
+    "ol": "latest"
+  }
+}
